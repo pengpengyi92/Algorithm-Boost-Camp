@@ -3,7 +3,8 @@
 Pengyi's one-hour-per-day algorithm training bootcamp.
 This repo records all problems solved, annotated, and analyzed during the reinforcement journey towards becoming a top quant dev / researcher.
 
-![1744853876745](https://github.com/user-attachments/assets/fcfd81e4-a1fe-460b-aa9c-8c711b33d172)
+![image](https://github.com/user-attachments/assets/92f24a2b-b35f-4c37-9b21-65de8cad4678)
+
 
 ## 🔥 Goals
 - Master core algorithm types
