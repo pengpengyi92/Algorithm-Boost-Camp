@@ -17,3 +17,14 @@ This repo records all problems solved, annotated, and analyzed during the reinfo
 |------------|--------------------|--------------------------------|
 | 2025-04-17 | Array + Hash Table | LC1, LC26, LC128               |
 | 2025-04-18 | Stack + DFS        | LC20, LC200, LC155             |
+
+
+---
+
+## 📄 License & Copyright
+
+© 2025 Pengyi Peng. All rights reserved.  
+This repository is intended for personal algorithm training and knowledge sharing only.  
+Any commercial or unauthorized use without permission is prohibited.
+
+Feel free to ⭐ star and fork for learning purposes!
